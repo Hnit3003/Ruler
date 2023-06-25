@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Y1 Old Footprint=WE-XTAL_CFPX-104 New Footprint=WE-XTAL_CFPX-5032_2Pin
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Add Component: Footprint Not Found WE-XTAL_CFPX-104
+Add Component: Footprint Not Found WE-XTAL_CFPX-104
